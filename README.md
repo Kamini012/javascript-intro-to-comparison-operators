@@ -14,7 +14,7 @@ Recall that Comparison operators allow you to test the relationship (equality an
 
 By now you know about the following comparison operators:
 
-| Operator      | Description   | Example |
+| Operator.     | Description   | Example |
 | ------------- | ------------- |-------- |
 | ==            | checks if value of two operands are equal or not. If yes then returns true  | (10 == 20) is not true; hence returns false |
 | !=            |checks if the value of 2 operands are equal. If values are not equal, returns true| (a != b) is true; hence returns true |
